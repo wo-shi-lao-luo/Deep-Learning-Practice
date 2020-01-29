@@ -67,14 +67,14 @@ print('Mean = ', Mean)
 # In[06]:
 # Import pandas Library
 import pandas as pd
-
+import os
 # Import data files
 sfo_cust_data_2014 = pd.read_excel('sfo cust sat 2014 data file_WEIGHTED_flysfo.xlsx', 'Sheet 1')
 print(sfo_cust_data_2014)
 
-import os
+# import os
 
-os.chdir('D:/#DevCourses-GWU/#4_Deep_Learning')
+# os.chdir('D:/#DevCourses-GWU/#4_Deep_Learning')
 
 # In[07]:
 print(sfo_cust_data_2014.columns)
