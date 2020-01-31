@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f1afea7-4c8e-444a-ba91-65a9f1678cdb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sfo cust sat 2014 data file_WEIGHTED_flysfo.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Week 2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Week 2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sfo cust sat 2015_data file_final_WEIGHTED_flysfo.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonAndPandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAndPandas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +33,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
   </component>
-  <component name="RunManager" selected="Python.PythonAndPandas">
+  <component name="RunManager" selected="Python.scratch">
     <configuration name="PythonAndPandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Week 2" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,8 +103,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PythonAndPandas" />
         <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.PythonAndPandas" />
       </list>
     </recent_temporary>
   </component>
@@ -128,6 +125,22 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1259" height="188" key="GridCell.Tab.0.bottom" timestamp="1580338849431">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="188" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1580338849431" />
+    <state width="1259" height="188" key="GridCell.Tab.0.center" timestamp="1580338849431">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="188" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1580338849431" />
+    <state width="1259" height="188" key="GridCell.Tab.0.left" timestamp="1580338849431">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="188" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1580338849431" />
+    <state width="1259" height="188" key="GridCell.Tab.0.right" timestamp="1580338849431">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="188" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1580338849431" />
     <state x="336" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1580336353370">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
