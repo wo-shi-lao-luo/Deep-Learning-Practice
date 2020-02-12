@@ -2,13 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f1afea7-4c8e-444a-ba91-65a9f1678cdb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/sfo cust sat 2015_data file_final_WEIGHTED_flysfo.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/venv/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="742180613">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -19,6 +31,12 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-4" />
+    <option name="y" value="-4" />
+    <option name="width" value="648" />
+    <option name="height" value="408" />
   </component>
   <component name="ProjectId" id="1X5WEG4zgE0olRDIHM81NJKCRTw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -32,6 +50,18 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
   </component>
   <component name="RunManager" selected="Python.scratch">
     <configuration name="PythonAndPandas" type="PythonConfigurationType" factoryName="Python" temporary="true">
@@ -121,26 +151,48 @@
     </task>
     <servers />
   </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="188" key="GridCell.Tab.0.bottom" timestamp="1580338849431">
+    <state width="1259" height="188" key="GridCell.Tab.0.bottom" timestamp="1580446777178">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1259" height="188" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1580338849431" />
-    <state width="1259" height="188" key="GridCell.Tab.0.center" timestamp="1580338849431">
+    <state width="1259" height="188" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1580446777178" />
+    <state width="1259" height="188" key="GridCell.Tab.0.center" timestamp="1580446777178">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1259" height="188" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1580338849431" />
-    <state width="1259" height="188" key="GridCell.Tab.0.left" timestamp="1580338849431">
+    <state width="1259" height="188" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1580446777178" />
+    <state width="1259" height="188" key="GridCell.Tab.0.left" timestamp="1580446777177">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1259" height="188" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1580338849431" />
-    <state width="1259" height="188" key="GridCell.Tab.0.right" timestamp="1580338849431">
+    <state width="1259" height="188" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1580446777177" />
+    <state width="1259" height="188" key="GridCell.Tab.0.right" timestamp="1580446777178">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state width="1259" height="188" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1580338849431" />
+    <state width="1259" height="188" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1580446777178" />
     <state x="336" y="205" key="com.intellij.ide.util.TipDialog" timestamp="1580336353370">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
