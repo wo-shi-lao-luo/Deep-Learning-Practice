@@ -9,7 +9,7 @@ Created on Mon Dec 30 11:34:42 2019
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-import os
+# import os
 
 # Importing the dataset
 # os.chdir("C:/Users/wei_chen/Desktop/##2020Spring/week4")
@@ -28,9 +28,10 @@ labelencoder_X_2 = LabelEncoder()
 X[:, 2] = labelencoder_X_2.fit_transform(X[:, 2])
 
 # Country column
+print(X)
 ct = ColumnTransformer([("Country", OneHotEncoder(), [1])], remainder = 'passthrough')
 X = ct.fit_transform(X)
-
+print(X)
 # In[3]:
 # Splitting the dataset into the Training set and Test set
 from sklearn.model_selection import train_test_split
@@ -48,7 +49,6 @@ X_test = sc.transform(X_test)
 # Part 2 - Now let's make the ANN!
 
 # Importing the Keras libraries and packages
-import keras
 from keras.models import Sequential
 from keras.layers import Dense
 
