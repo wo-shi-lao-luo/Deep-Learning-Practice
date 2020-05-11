@@ -71,6 +71,9 @@ regressor = Sequential()
 regressor.add(LSTM(units = 100, input_shape = (X_train.shape[1], 1)))
 regressor.add(Dropout(0.2))
 
+regressor.add(Dense(units = 100))
+regressor.add(Dropout(0.2))
+
 # Adding the output layer
 regressor.add(Dense(units = 1))
 
@@ -81,7 +84,7 @@ regressor.compile(optimizer = 'adam', loss = 'mean_squared_error', metrics=['mea
 regressor.summary()
 
 # Fitting the RNN to the Training set
-history = regressor.fit(X_train, y_train, epochs = 50, batch_size = 32, 
+history = regressor.fit(X_train, y_train, epochs = 100, batch_size = 32, 
                         validation_data=(X_test, y_test))
 
 # In[6]:
